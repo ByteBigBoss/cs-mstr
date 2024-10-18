@@ -1,0 +1,14 @@
+E:\Practice\OOP\c#\FirstCSharpApp\bin\Debug\net8.0\FirstCSharpApp.exe
+E:\Practice\OOP\c#\FirstCSharpApp\bin\Debug\net8.0\FirstCSharpApp.deps.json
+E:\Practice\OOP\c#\FirstCSharpApp\bin\Debug\net8.0\FirstCSharpApp.runtimeconfig.json
+E:\Practice\OOP\c#\FirstCSharpApp\bin\Debug\net8.0\FirstCSharpApp.dll
+E:\Practice\OOP\c#\FirstCSharpApp\bin\Debug\net8.0\FirstCSharpApp.pdb
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.AssemblyInfoInputs.cache
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.AssemblyInfo.cs
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.csproj.CoreCompileInputs.cache
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.dll
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\refint\FirstCSharpApp.dll
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.pdb
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\FirstCSharpApp.genruntimeconfig.cache
+E:\Practice\OOP\c#\FirstCSharpApp\obj\Debug\net8.0\ref\FirstCSharpApp.dll

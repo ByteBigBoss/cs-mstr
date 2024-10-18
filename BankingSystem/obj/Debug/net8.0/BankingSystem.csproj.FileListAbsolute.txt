@@ -1,0 +1,14 @@
+E:\Practice\OOP\c#\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+E:\Practice\OOP\c#\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+E:\Practice\OOP\c#\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+E:\Practice\OOP\c#\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+E:\Practice\OOP\c#\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+E:\Practice\OOP\c#\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
